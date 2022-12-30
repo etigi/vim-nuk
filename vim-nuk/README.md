@@ -13,11 +13,11 @@ The plugin is installable with your favorite vim plugin manager.
 
 To install with [vim-plug](https://github.com/junegunn/vim-plug):
 ```vim
-Plug 'etigi/nuk/vim'
+Plug 'etigi/nuk/vim-nuk'
 ```
 
 To install with [Vundle](https://github.com/VundleVim/Vundle.vim):
 ```vim
-Plugin 'etigi/nuk/vim'
+Plugin 'etigi/nuk/vim-nuk'
 ```
 
